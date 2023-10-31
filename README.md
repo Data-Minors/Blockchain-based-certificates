@@ -38,10 +38,7 @@ Why choose NFT?
         the authenticity of the certificate
     •  NFTs also store ownership history, providing a clear trail if certificate ownership is altered over time.
 
-# Prototype and Basic Structure of Website
-
-UI isin Development Stage
-
+#UI is in Development Stage
 
 This is a Basic Structure of Website
 ![Basic_Structure](https://github.com/Himesh-032/blockchain-certificate-generator/assets/145576571/971c090d-edf0-4c43-90aa-aca90899370e)
